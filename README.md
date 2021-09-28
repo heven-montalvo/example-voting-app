@@ -63,4 +63,4 @@ The voting application only accepts one vote per client. It does not register vo
 [![Build Status](http://198.251.70.45:8080/buildStatus/icon?job=instavote%2Fworker-test&subject=UnitTest)](http://198.251.70.45:8080/job/instavote/job/worker-test/)
 [![Build Status](http://198.251.70.45:8080/job/instavote/job/worker-package/badge/icon)](http://198.251.70.45:8080/job/instavote/job/worker-package/)
 
-
+#test
